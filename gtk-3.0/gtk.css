@@ -5101,3 +5101,7 @@ calendar.raven-calendar {
     opacity: 1; }
   .budgie-run-dialog scrolledwindow {
     border-top: 1px solid #dcdfe3; }
+
+#pulseaudio-button * {
+    -gtk-icon-transform: scale(.6);
+}

@@ -12,8 +12,10 @@
 
 ## Installation
 
-Copy the theme in to:
+Copy the theme into:
 
 /home/YourUSERNAME/.themes
+
 or
+
 /usr/share/themes
